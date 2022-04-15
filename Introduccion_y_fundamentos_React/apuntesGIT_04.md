@@ -8,4 +8,3 @@
 19. git reset -- mixed.mp4
 20. git reset -- hard.mp4
 21. Configurar otro editor de texto.mp4
-apuntes.md
